@@ -1,4 +1,4 @@
 <?PHP
 	echo "My first Project using Git";
-	echo "It´s exist in Repository";
+	echo "A new line insert in file.";
 ?>
